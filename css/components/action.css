@@ -10,11 +10,11 @@
   }
   
   
-  .action a:before
+  .action::before 
   {
-    content: "";
+    content: " ";
     display: inline-block;
-    background-color: #cf0000;
+    background-color: #c221ac;
     width: 10px;
     height: 10px;
     margin-right: 10px;
