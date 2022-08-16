@@ -1,8 +1,12 @@
 .section {
 
-    background-color: blueviolet;
+    background-color: rgb(224, 96, 203);
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid #f0f;
+    border-bottom: 10px solid #000000; 
     
+}
+
+.section .main-title {
+    margin-bottom: 60px;
 }
