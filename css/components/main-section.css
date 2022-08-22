@@ -1,4 +1,4 @@
-.section {
+.main-section {
 
     background-color: rgb(224, 96, 203);
     padding-top: 50px;
@@ -7,14 +7,14 @@
     
 }
 
-.section .main-title {
+.main-section .main-title {
     margin-bottom: 60px;
 }
 
-.section.-bgBlack {
+.main-section.-bgBlack {
 background-color: black;
 }
 
-.section.-bdFirst {
+.main-section.-bdFirst {
     border-color:  #fff;
 }
