@@ -10,7 +10,7 @@
   }
   
   
-  .main-action::before{
+  .main-action::before {
     content: " ";
     display: inline-block;
     background-color: #fff;
