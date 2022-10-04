@@ -6,3 +6,17 @@
     border-bottom:  10px solid rgb(255, 255, 255) ;
     padding: 10px 20px;
   }
+
+@media screen and  (max-width:980px){
+  
+  .main-header > .menu {
+    display: none;
+   }
+}
+  
+
+
+  .main-header > .menu {
+
+
+  }
